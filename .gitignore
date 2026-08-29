@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.vscode/
+.DS_Store
+loadtest/results/
+backend/prisma/dev.db
